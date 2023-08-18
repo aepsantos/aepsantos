@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do aepsantos 😁
+## Bem-vindo(a) ao perfil do aepsantos 
 <div>
   <a href="https://github.com/aepsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aepsantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
